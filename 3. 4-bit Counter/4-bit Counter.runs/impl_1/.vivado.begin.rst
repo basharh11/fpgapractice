@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="4592" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="9147" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="10152" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="14055" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="16069" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="19531" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="20535" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="25380" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="29191" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="29420" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="29674" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="36618" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="42980" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="46577" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="47902" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="51809" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="56111" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="59887" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="60873" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="61427" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="64955" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="65298" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>

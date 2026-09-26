@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="bashar" Host="bashar-REDMI-Book-Pro-14-2025" Pid="61124" HostCore="14" HostMemory="32271284">
+    </Process>
+</ProcessHandle>

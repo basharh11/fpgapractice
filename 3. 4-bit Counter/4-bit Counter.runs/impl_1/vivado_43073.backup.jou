@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sat Sep 26 01:58:41 2026
+# Process ID         : 43073
+# Current directory  : /home/bashar/Documents/fpgapractice/3. 4-bit Counter/4-bit Counter.runs/impl_1
+# Command line       : vivado -log counter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counter.tcl -notrace
+# Log file           : /home/bashar/Documents/fpgapractice/3. 4-bit Counter/4-bit Counter.runs/impl_1/counter.vdi
+# Journal file       : /home/bashar/Documents/fpgapractice/3. 4-bit Counter/4-bit Counter.runs/impl_1/vivado.jou
+# Running On         : bashar-REDMI-Book-Pro-14-2025
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.5 LTS
+# Processor Detail   : Intel(R) Core(TM) Ultra 5 225H
+# CPU Frequency      : 2600.000 MHz
+# CPU Physical cores : 14
+# CPU Logical cores  : 14
+# Host memory        : 33045 MB
+# Swap memory        : 8589 MB
+# Total Virtual      : 41635 MB
+# Available Virtual  : 35105 MB
+#-----------------------------------------------------------
+source counter.tcl -notrace
